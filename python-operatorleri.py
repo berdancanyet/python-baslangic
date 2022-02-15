@@ -19,7 +19,7 @@ y = 3
 print(x * y) # 15 çıktısını verir.
 
 # Bölme (/)
-# Örnek: 	x / y
+# Örnek: x / y
 x = 12
 y = 3
 print(x / y) # 4 çıktısını verir.
